@@ -1,3 +1,5 @@
+package sintaxeBasica;
+
 public class ForArray {
     public static void main(String[] args) {
         String[] alunos = {"joao","carlos","lucas","marcos"};

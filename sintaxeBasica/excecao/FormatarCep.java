@@ -1,4 +1,4 @@
-package excecao;
+package sintaxeBasica.excecao;
 
 public class FormatarCep {
     public static void main(String[] args) {

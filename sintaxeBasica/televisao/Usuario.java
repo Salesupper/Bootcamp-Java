@@ -1,4 +1,4 @@
-package televisao;
+package sintaxeBasica.televisao;
 
 public class Usuario {
     public static void main(String[] args) {

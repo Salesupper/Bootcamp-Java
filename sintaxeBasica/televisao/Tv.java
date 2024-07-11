@@ -1,4 +1,4 @@
-package televisao;
+package sintaxeBasica.televisao;
 
 public class Tv {
     boolean ligada=false;

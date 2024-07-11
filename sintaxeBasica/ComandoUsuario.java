@@ -1,3 +1,5 @@
+package sintaxeBasica;
+
 import java.util.Scanner;
 
 public class ComandoUsuario {
