@@ -13,7 +13,6 @@ public class Multifuncional implements Copiadora,Impressora,Digitalizadora{
     @Override
     public void imprimir(){
         System.out.println("imprimindo multi");
-
     }
 
     @Override
